@@ -133,7 +133,36 @@
 -  width
     - 1 rem:16px
 
+Task2:
+ 
+ - index.html
+ - Register.html
 
+#### Responsive wed design
+ ### flex box
+
+ + display
+     - none
+     - inline
+     - block
+     - inline-block
+ + position
+   - static
+   - relative
+   - absolute
+   - fixed
+   - sticky
+  + algin-content
+  + algin-items
+  + align-self
+
+  ### flex box
+  - display
+     - flex
+        - flex-wrap
+        - justify-content
+        - flex-direction
+        - flex-flow
 
 ### Reference websites
  
