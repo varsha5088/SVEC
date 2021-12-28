@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>:: ) Selectors ( :: </title>
+    <style>
+
+    *{
+        border: 10px solid rgb(red, green, blue); 
+    }
+        div p{
+            background-color: tomato;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-stretch: inherit;
+        } 
+      div > p{
+              background-color: green;
+        } 
+        section +p{
+            background-color: blue;
+            
+        }
+        div + h4{
+            font-size: large;
+            background-color: salmon;
+        }
+        div ~h5{
+            background-color: aqua;
+        }   
+        p::first-letter{
+            font-size: 100px;
+
+        }
+        p::first-line{
+            background-color: turquoise;
+                }
+    </style>
+</head>
+  <br>
+  Welcome to my page
+  <br>
+<body>
+    <div>
+        <p>paragraph1</p>
+        <p>paragraph2</p>
+        <div>
+            <p>paragraph</p>
+        </div>
+        <section>
+            <p>Paragraph4</p>
+        </section>
+        <p>paragraph1</p>
+        <p>paragraph2</p>
+    </div>
+    <h4>end</h4>
+    <h5>fsdgsdgjh</h5>
+</body>
+</html>
