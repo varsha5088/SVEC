@@ -48,7 +48,6 @@
 
 ### HTML5
 
-
   - Hyper Text Markup Language
   - Semantic Elements 
     - header 
@@ -74,6 +73,5 @@
     - legend
     - sup
     - sub
-
-### reference links
-   - flaticon.com (https://www.flaticon.com/)
+    -  order list 
+    -  unorder list
