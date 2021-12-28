@@ -75,5 +75,67 @@
     - sup
     - sub
 
-### reference links
-   - flaticon.com (https://www.flaticon.com/)
+#### Task :
+=====
+
+- Audio
+- Video
+- canvas
+- progress
+- datalist
+- meter
+- select
+
+
+### CSS
+- Cascading style sheet
+- Types of css
+     - Inline  css
+     -  Internal css
+     - External css
+
++ Syntax of css
+```
+  selector{
+    css properties
+  }
+```
+#### selector
+
++ simple selctors
+  - universal selector(*)
+  - by element name
+  - grouping selector(,)
+  - class selector
+  - id selcetor
+
++ combinations 
+  + Decendent selecors( )
+  + child selector(>)
+  + Adjacent sibling selector(+)
+  + General sibling selector(~)
++ Pseudo class selector
++ Psudo element selector
++ Attribute selector
+
+
+### Boxmodel
+
+-  margin
+-  border
+-  padding
+      - padding :20px (for all adjacent sides)
+      - padding :10 px 30px (10 for to and bottom , 30 for the left and right)
+       - padding: 10,20,30px(10 for top, 20 for left and right,30 for bottom)
+       - padding : 10,20,30,40(top ,right,bottom,left)
+-  width
+    - 1 rem:16px
+
+
+
+### Reference websites
+ 
+ - clourcodes( https://htmlcolorcodes.com/)
+ - fatation( https://www.flaticon.com/)
+ - webaim ( https://webaim.org/resources/contrastchecker/)
+ - GITHUB LOGIN (https://github.com/varsha5088)
