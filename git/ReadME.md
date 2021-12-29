@@ -164,9 +164,85 @@ Task2:
         - flex-direction
         - flex-flow
 
-### Reference websites
+
+### media quries
+
+- extra small devices(mobiles)
+  - max-width:600px
+- small devices(large phones)
+  - min-width:600px
+  - max-width:768
+- medium devices(small laptops)
+  - min-width:768px
+- large devices(large laptops or desktops)
+  - min width:992px
+- extra large devices()
+  - min-width:1200px
+'''
+@media only screen(max-width:320px) and (max-width:500px){
+  css code
+  }
+'''
+### bootstrap 4.6
+
+- it is a css framework
+task 3:
+=====
+
+ - navbar with resposive
+
+- module(collection of functions and classes)
+- package(collection of modules)
+- library(collection of packages)
+- framework(collection of libraries)
+ + module -->package   -->library -->framework
+
+ + type of modes
+  - offline
+  - online
+      - CDN links
+  + background-color - bg
+  + text - white
+
+  + margin in bootstrap (m-*(0-5))
+    - o--> 0rem
+    - 1-->0.25rem (4px)
+    - 2-->0.5rem(8px)
+    - 3-->1rem(16px)
+    - 4-->1.5rem(24px)
+    - 2-->0.5rem(48px)
+    - m (margin in all directions)
+    - ml-5 (margin-left)
+    - mt(margin -top)
+    - mb(margin bottom)
+    - mr(margin right)
+   
+   + padding (padding-left --> pl-5)
+
+   + colors
+    - primary
+    - secondary
+    - info
+    - success
+    - warning
+    - danger
+    - light
+    - dark
+    - white
+    
+
+    + we can use color classes for
+     - buttons (btn btn-primary)
+     - text (text-white)
+     - background (bg-secondary)
+
+     - alerts (alert alert-primary)
+
+     ### Reference websites
  
  - clourcodes( https://htmlcolorcodes.com/)
  - fatation( https://www.flaticon.com/)
  - webaim ( https://webaim.org/resources/contrastchecker/)
  - GITHUB LOGIN (https://github.com/varsha5088)
+
+
