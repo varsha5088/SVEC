@@ -1,0 +1,15 @@
+.demo{
+    border: 10px solid gray;
+    padding: 10px;
+    background-color: lightblue;
+}
+
+.main{
+    border: 5px solid lightseagreen;
+    background-color: lightsalmon
+}
+
+.in{
+    border: 5px solid lightseagreen;
+    background-color: lightsalmon;
+}
