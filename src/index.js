@@ -3,18 +3,20 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Functional from './components/Functional';
-import UnionBank from './components/UnionBank';
-import StatesinClassComponent from './components/StatesinClassComponent';
-import StatesInFunctionalComponets from './components/StatesInFunctionalComponets';
+import FormRndering from './components/FormRndering';
+import Home from './components/Home';
+import ListRendering from './components/ListRendering';
+import FormRnderinginFunctions from './components/FormRnderinginFunctions';
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <App />
-    <Functional/> */}
-    {/* <UnionBank/> */}
-    <StatesinClassComponent /> 
-   {/* <StatesInFunctionalComponets /> */}
+    {
+    //  <App />
+    //  <FormRndering />
+    // <ListRendering />
+    //  <Home />
+    <FormRnderinginFunctions />
+    }
   </React.StrictMode>,
   document.getElementById('root')
 );
